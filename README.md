@@ -1,19 +1,4 @@
-**Outlining procedural steps**
 
-The user wants short procedures for various problems, starting with manual implementations, later using built-ins. For instance:
-
-* \#1: Implement operators by assigning variables, applying operations, and printing results.
-* \#2: Manually code if-else statements to compare values.
-
-For later steps, such as statistical tests, loops, and regression, I'll handle manual implementations at first but rely on built-ins like `mean()`, `var()`, and others when specified. Each section will have a short, clear set of steps to follow.
-
-
-Thought for 11 seconds
-
-
-**Short procedural outlines**—do the first four problems **fully “by hand”** (no built‑ins beyond basic arithmetic, comparison and loops); from Problem 5 onward you may leverage R’s built‑in functions.
-
----
 
 ### 1. Operators (no built‑ins)
 
@@ -120,3 +105,7 @@ $$
 
     * S3: `class<-`, write `print.ClassName`
     * S4: `setClass()`, `new()`
+
+---
+
+This gives you **manual algorithms** for Problems 1–4 and then **built‑in workflows** for Problems 5–14.
